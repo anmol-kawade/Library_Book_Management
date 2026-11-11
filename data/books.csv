@@ -1,0 +1,9 @@
+id,title,author,category,available
+B101,Clean Code,Robert C. Martin,Software Eng,true
+B102,Introduction to Algorithms,Thomas H. Cormen,Computer Science,true
+B103,Effective Java,Joshua Bloch,Programming,false
+B104,Design Patterns,Erich Gamma,Software Eng,true
+B105,The Pragmatic Programmer,Andrew Hunt,Software Eng,false
+B106,Database System Concepts,Abraham Silberschatz,Databases,true
+B107,Computer Networks,Andrew S. Tanenbaum,Networking,true
+B108,Operating System Concepts,Peter B. Galvin,Operating Systems,true

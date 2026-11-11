@@ -1,0 +1,6 @@
+id,name,contact,email,type,registrationDate,borrowedCount
+F101,Dr. Sneha Kulkarni,9765432100,sneha.k@college.edu,FACULTY,2026-09-02,0
+F102,Prof. Rajesh Mehta,9845098450,rajesh.m@college.edu,FACULTY,2026-09-02,0
+S101,Aarav Sharma,9876543210,aarav@college.edu,STUDENT,2026-09-02,1
+S102,Priya Patel,9812345678,priya@college.edu,STUDENT,2026-09-02,1
+S103,Rohan Verma,9900112233,rohan@college.edu,STUDENT,2026-09-02,0
